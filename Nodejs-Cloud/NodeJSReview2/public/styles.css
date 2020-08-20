@@ -1,0 +1,63 @@
+
+
+a{
+    text-decoration: none;
+    color: white;	
+}
+	
+p{
+    font-family: "Lucida Console", Courier, monospace;
+    color: white;
+	
+}
+
+.header{
+	background: #3578E5 ;
+	border-collapse: collapse;
+	height: 105px;
+}
+
+#article-1 {
+	float: left;
+	padding: 5px;
+	padding-left: 20px;
+	height: 90px;
+	padding-top: 10px;	
+}
+
+#center{
+	padding-top: 20px;
+}
+
+#article-2, #article-3, #article-4{
+	float: right;
+	padding: 5px;
+	height: 90px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	
+
+}
+#article-2:hover{
+	background: grey;
+	height: 90px;
+}
+
+#article-3:hover{
+	background: grey;
+	height: 90px;
+}
+
+#article-4:hover{
+	background: grey;
+	height: 90px;
+}
+.section{
+    border-radius: 4px;
+	background-color: white;
+	border: 1px solid black;
+	padding-bottom: 341px;
+    margin: 50px;
+    background-image: url("https://sudospaces.com/babycuatoi/2020/01/banner-babycuatoi-2.jpg");
+}
